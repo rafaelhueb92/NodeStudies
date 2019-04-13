@@ -1,0 +1,5 @@
+Article link:
+https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications
+
+Using Swagger:
+https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6624b855b
